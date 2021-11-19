@@ -6,6 +6,7 @@ Aqui eu deixo alguns links para conhecimento no geral.
 
 Eventos AWS:
 - ReInvent: https://reinvent.awsevents.com/
+- Eventos e Webinares: https://aws.amazon.com/pt/events/?events-master-main.sort-by=item.additionalFields.startDateTime&events-master-main.sort-order=desc&awsf.events-master-type=*all&awsf.events-master-audience=*all&awsf.events-master-level=*all
 
 Caminhos de aprendizado (Learning Paths):
 - https://aws.amazon.com/pt/training/learn-about/
@@ -28,5 +29,7 @@ Technical Essentials / Cloud Practitioner Essentials:
 
 Exames:
 - Cloud Practitioner: https://aws.amazon.com/pt/certification/certified-cloud-practitioner/
-- Visão geral (contempla pedido de extensão): https://aws.amazon.com/pt/certification/policies/before-testing/
-- 
+- Visão geral - Antes de realizar a prova (contempla pedido de extensão): https://aws.amazon.com/pt/certification/policies/before-testing/
+
+Referencia de clientes:
+- https://aws.amazon.com/pt/solutions/case-studies/?customer-references-cards.sort-by=item.additionalFields.sortDate&customer-references-cards.sort-order=desc&awsf.customer-references-location=*all&awsf.customer-references-segment=*all&awsf.customer-references-industry=*all&awsf.customer-references-use-case=*all&awsf.customer-references-tech-category=*all&awsf.customer-references-product=*all
