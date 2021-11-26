@@ -25,6 +25,7 @@ Technical Essentials / Cloud Practitioner Essentials:
 - VPC: https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Subnets.html
 - Purpose built databases: https://aws.amazon.com/products/databases/
 - Planos de suporte AWS: https://aws.amazon.com/pt/premiumsupport/?nc=sn&loc=0
+- Familias EC2: https://aws.amazon.com/pt/ec2/instance-types/
 
 
 Exames:
