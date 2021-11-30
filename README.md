@@ -26,8 +26,9 @@ Technical Essentials / Cloud Practitioner Essentials:
 - VPC: https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Subnets.html
 - Purpose built databases: https://aws.amazon.com/products/databases/
 - Planos de suporte AWS: https://aws.amazon.com/pt/premiumsupport/?nc=sn&loc=0
-- Familias EC2: https://aws.amazon.com/pt/ec2/instance-types/
+- EC2 Familias: https://aws.amazon.com/pt/ec2/instance-types/
 - EC2 pricing options (definição de preço da EC2): https://aws.amazon.com/pt/ec2/pricing/?nc1=h_ls
+- S3 Definição de preço: https://aws.amazon.com/pt/s3/pricing/
 - Well Architect Framework: https://aws.amazon.com/pt/architecture/well-architected
 
 
