@@ -35,6 +35,8 @@ Technical Essentials / Cloud Practitioner Essentials:
 Exames:
 - Cloud Practitioner: https://aws.amazon.com/pt/certification/certified-cloud-practitioner/
 - Visão geral - Antes de realizar a prova (contempla pedido de extensão): https://aws.amazon.com/pt/certification/policies/before-testing/
+- Practice Tests (
+AWS Certification Official Practice Question Sets): https://explore.skillbuilder.aws/learn/course/external/view/elearning/9153/aws-certification-official-practice-question-sets-english
 
 Referencia de clientes:
 - https://aws.amazon.com/pt/solutions/case-studies/?customer-references-cards.sort-by=item.additionalFields.sortDate&customer-references-cards.sort-order=desc&awsf.customer-references-location=*all&awsf.customer-references-segment=*all&awsf.customer-references-industry=*all&awsf.customer-references-use-case=*all&awsf.customer-references-tech-category=*all&awsf.customer-references-product=*all
