@@ -40,3 +40,4 @@ AWS Certification Official Practice Question Sets): https://explore.skillbuilder
 
 Referencia de clientes:
 - https://aws.amazon.com/pt/solutions/case-studies/?customer-references-cards.sort-by=item.additionalFields.sortDate&customer-references-cards.sort-order=desc&awsf.customer-references-location=*all&awsf.customer-references-segment=*all&awsf.customer-references-industry=*all&awsf.customer-references-use-case=*all&awsf.customer-references-tech-category=*all&awsf.customer-references-product=*all
+- Se você teve problemas com o audio, pode consultar esse link: https://support.goto.com/meeting/help/why-cant-i-hear-anyone-g2m050056
