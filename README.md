@@ -36,11 +36,16 @@ Exames:
 - Cloud Practitioner: https://aws.amazon.com/pt/certification/certified-cloud-practitioner/
 - Visão geral - Antes de realizar a prova (contempla pedido de extensão): https://aws.amazon.com/pt/certification/policies/before-testing/
 - Practice Tests (
-AWS Certification Official Practice Question Sets): https://explore.skillbuilder.aws/learn/course/external/view/elearning/9153/aws-certification-official-practice-question-sets-english
+- AWS Certification Official Practice Question Sets): https://explore.skillbuilder.aws/learn/course/external/view/elearning/9153/aws-certification-official-practice-question-sets-english
+- AWS Cloud Practitioner Exam Rediness: https://explore.skillbuilder.aws/learn/course/internal/view/elearning/9449/exam-prep-aws-certified-cloud-practitioner-foundations
 
 Referencia de clientes:
 - Referencias de clientes: https://aws.amazon.com/pt/solutions/case-studies/?customer-references-cards.sort-by=item.additionalFields.sortDate&customer-references-cards.sort-order=desc&awsf.customer-references-location=*all&awsf.customer-references-segment=*all&awsf.customer-references-industry=*all&awsf.customer-references-use-case=*all&awsf.customer-references-tech-category=*all&awsf.customer-references-product=*all
+
+Audio nas sessões
 - (GTW) Se você teve problemas com o audio, pode consultar esse link: https://support.goto.com/meeting/help/why-cant-i-hear-anyone-g2m050056
+- (Webex) https://help.webex.com/en-us/article/WBX12581/Webex-Audio-Troubleshooting
+
 
 Demonstrações:
 - EC2:
