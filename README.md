@@ -35,7 +35,6 @@ Technical Essentials / Cloud Practitioner Essentials:
 Exames:
 - Cloud Practitioner: https://aws.amazon.com/pt/certification/certified-cloud-practitioner/
 - Visão geral - Antes de realizar a prova (contempla pedido de extensão): https://aws.amazon.com/pt/certification/policies/before-testing/
-- Practice Tests (
 - AWS Certification Official Practice Question Sets: https://explore.skillbuilder.aws/learn/course/external/view/elearning/9153/aws-certification-official-practice-question-sets-english
 - AWS Certification Official Practice Question Sets (Português): https://explore.skillbuilder.aws/learn/course/internal/view/elearning/9161/aws-certification-official-practice-question-sets-portuguese-brazil
 - AWS Cloud Practitioner Exam Rediness: https://explore.skillbuilder.aws/learn/course/internal/view/elearning/9449/exam-prep-aws-certified-cloud-practitioner-foundations
@@ -49,7 +48,7 @@ Audio nas sessões
 
 
 Demonstrações:
-- EC2:
+- EC2 user data: https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/user-data.html
 
 ```
 #!/bin/bash
@@ -63,6 +62,17 @@ sudo systemctl status amazon-ssm-agent
 
 sudo mkdir /efs
 sudo chown ec2-user:ec2-user /efs
+
+yum update -y amazon-linux-extras install -y lamp-mariadb10.2-php7.2 php7.2
+yum install -y httpd mariadb-server
+systemctl start httpd
+systemctl enable httpd
+usermod -a -G apache ec2-user
+chown -R ec2-user:apache /var/www
+chmod 2775 /var/www
+find /var/www -type d -exec chmod 2775 {} \;
+find /var/www -type f -exec chmod 0664 {} \;
+echo "<?php phpinfo(); ?>" > /var/www/html/phpinfo.php
 
 ```
 
