@@ -50,6 +50,7 @@ Audio nas sessões
 Demonstrações:
 - EC2 user data: https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/user-data.html
 
+Amazon linux:
 ```
 #!/bin/bash
 
@@ -76,3 +77,30 @@ echo "<?php phpinfo(); ?>" > /var/www/html/phpinfo.php
 
 ```
 
+Ubuntu:
+```
+#!/bin/bash
+
+sudo apt-get update -y 
+sudo apt-get install zip sed wget -y
+sudo apt-get install amazon-efs-utils -y
+sudo apt-get install -y https://s3.us-west-2.amazonaws.com/amazon-ssm-us-west-2/latest/linux_amd64/amazon-ssm-agent.rpm
+sudo systemctl status amazon-ssm-agent
+sudo systemctl enable amazon-ssm-agent
+sudo systemctl start amazon-ssm-agent
+sudo systemctl status amazon-ssm-agent
+
+sudo mkdir /efs
+sudo chown ec2-user:ec2-user /efs
+
+sudo apt-get install -y httpd mariadb-server
+systemctl start httpd
+systemctl enable httpd
+usermod -a -G apache ec2-user
+chown -R ec2-user:apache /var/www
+chmod 2775 /var/www
+find /var/www -type d -exec chmod 2775 {} \;
+find /var/www -type f -exec chmod 0664 {} \;
+echo "<?php phpinfo(); ?>" > /var/www/html/phpinfo.php
+
+```
