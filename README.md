@@ -94,6 +94,7 @@ sudo snap start amazon-ssm-agent
 sudo mkdir /efs
 sudo chown ubuntu:ubuntu /efs
 sudo apt-get install npm -y
+sudo apt-get install node* -y
 
 sudo apt-get install -y httpd mariadb-server
 systemctl start httpd
