@@ -92,7 +92,8 @@ sudo systemctl status snap.amazon-ssm-agent.amazon-ssm-agent.service
 sudo snap start amazon-ssm-agent
 
 sudo mkdir /efs
-sudo chown ec2-user:ec2-user /efs
+sudo chown ubuntu:ubuntu /efs
+sudo apt-get install npm -y
 
 sudo apt-get install -y httpd mariadb-server
 systemctl start httpd
