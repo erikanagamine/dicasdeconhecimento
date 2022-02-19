@@ -54,8 +54,9 @@ Amazon linux:
 ```
 #!/bin/bash
 
-sudo yum install amazon-efs-utils -y
+
 sudo yum install -y https://s3.us-west-2.amazonaws.com/amazon-ssm-us-west-2/latest/linux_amd64/amazon-ssm-agent.rpm
+sudo yum install -y amazon-efs-utils
 sudo systemctl status amazon-ssm-agent
 sudo systemctl enable amazon-ssm-agent
 sudo systemctl start amazon-ssm-agent
