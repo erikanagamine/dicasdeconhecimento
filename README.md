@@ -49,6 +49,7 @@ Audio nas sessões
 
 Demonstrações:
 - EC2 user data: https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/user-data.html
+- Workshops: https://workshops.aws/
 
 Amazon linux:
 ```
