@@ -31,6 +31,10 @@ Technical Essentials / Cloud Practitioner Essentials:
 - S3 Definição de preço: https://aws.amazon.com/pt/s3/pricing/
 - Well Architect Framework: https://aws.amazon.com/pt/architecture/well-architected
 
+Big Data:
+- Kinesis: https://aws.amazon.com/pt/about-aws/whats-new/2021/11/amazon-kinesis-data-streams-on-demand/
+- Kinesis: https://aws.amazon.com/blogs/aws/amazon-kinesis-data-streams-on-demand-stream-data-at-scale-without-managing-capacity/
+
 
 Exames:
 - Cloud Practitioner: https://aws.amazon.com/pt/certification/certified-cloud-practitioner/
