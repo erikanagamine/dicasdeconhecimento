@@ -34,6 +34,7 @@ Technical Essentials / Cloud Practitioner Essentials:
 Big Data:
 - Kinesis: https://aws.amazon.com/pt/about-aws/whats-new/2021/11/amazon-kinesis-data-streams-on-demand/
 - Kinesis: https://aws.amazon.com/blogs/aws/amazon-kinesis-data-streams-on-demand-stream-data-at-scale-without-managing-capacity/
+- SQL ou NoSQL: https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/SQLtoNoSQL.html
 
 
 Exames:
