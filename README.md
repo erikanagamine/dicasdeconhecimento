@@ -7,6 +7,7 @@ Aqui eu deixo alguns links para conhecimento no geral.
 Eventos AWS:
 - ReInvent: https://reinvent.awsevents.com/
 - Eventos e Webinares: https://aws.amazon.com/pt/events/?events-master-main.sort-by=item.additionalFields.startDateTime&events-master-main.sort-order=desc&awsf.events-master-type=*all&awsf.events-master-audience=*all&awsf.events-master-level=*all
+- Desconto em certificação (2022) Cloud Practitioner, Developer, Solutions Architect Associate: https://pages.awscloud.com/LATAM-launch-STR-aws-certification-disc-br-2022-interest.html
 
 Caminhos de aprendizado (Learning Paths):
 - https://aws.amazon.com/pt/training/learn-about/
