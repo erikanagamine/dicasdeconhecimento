@@ -136,3 +136,7 @@ echo "<?php phpinfo(); ?>" > /var/www/html/phpinfo.php
 Para o Systems Manager (Não esquecer): "How to access Quick Setup
 To access this capability, choose Quick Setup in the navigation pane of the Systems Manager console. To access the Organization Quick Setup type, which you can use to target multiple accounts and Regions, sign in to the management account for your organization before accessing Quick Setup. For more information, see Getting started with AWS Organizations in the AWS Organizations User Guide." fonte: https://docs.aws.amazon.com/systems-manager/latest/userguide/systems-manager-quick-setup.html#quick-setup-instance-profile
 
+
+Campanhas globais:
+- Cloud Practitioner: https://pages.awscloud.com/GLOBAL-ln-GC-TrainCert-Cloud-Practitioner-Challenge-2022-reg.html?trk=711adc9b-e1af-49cf-a767-1c0ebfa2a8da&sc_channel=em
+
