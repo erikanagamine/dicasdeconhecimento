@@ -139,4 +139,6 @@ To access this capability, choose Quick Setup in the navigation pane of the Syst
 
 Campanhas globais:
 - Cloud Practitioner: https://pages.awscloud.com/GLOBAL-ln-GC-TrainCert-Cloud-Practitioner-Challenge-2022-reg.html?trk=711adc9b-e1af-49cf-a767-1c0ebfa2a8da&sc_channel=em
+- Pagina de eventos de eventos: https://pages.awscloud.com/LATAM-ln-OE-br-virtual-events-pm-2022-reg-event.html?trk=dc404d02-8dda-4ee1-b8af-310c16eef4d6&sc_channel=el
+
 
