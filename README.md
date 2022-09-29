@@ -38,6 +38,7 @@ Big Data:
 - SQL ou NoSQL: https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/SQLtoNoSQL.html
 - Athena Federation: https://docs.aws.amazon.com/athena/latest/ug/connect-to-a-data-source.html
 - Tuning Tips para Athena: https://aws.amazon.com/blogs/big-data/top-10-performance-tuning-tips-for-amazon-athena/
+- Curso Redshift: https://explore.skillbuilder.aws/learn/course/external/view/elearning/1316/amazon-redshift-service-primer
 
 
 Exames:
@@ -141,4 +142,5 @@ Campanhas globais:
 - Cloud Practitioner: https://pages.awscloud.com/GLOBAL-ln-GC-TrainCert-Cloud-Practitioner-Challenge-2022-reg.html?trk=711adc9b-e1af-49cf-a767-1c0ebfa2a8da&sc_channel=em
 - Pagina de eventos de eventos: https://pages.awscloud.com/LATAM-ln-OE-br-virtual-events-pm-2022-reg-event.html?trk=dc404d02-8dda-4ee1-b8af-310c16eef4d6&sc_channel=el
 - revisão do exame - Cloud Practitioner: https://explore.skillbuilder.aws/learn/course/external/view/elearning/13566/exam-prep-aws-certified-cloud-practitioner-with-practice-material-amazon-portuguese
+
 
