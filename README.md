@@ -144,5 +144,11 @@ Campanhas globais:
 - revisão do exame - Cloud Practitioner: https://explore.skillbuilder.aws/learn/course/external/view/elearning/13566/exam-prep-aws-certified-cloud-practitioner-with-practice-material-amazon-portuguese
 - Desafio Cloud Practitioner (Português): https://pages.awscloud.com/global_traincert-200-certification-challenge-foundational-reg-PT-BR.html?trk=a3e835ec-cdc9-40fa-a743-22dadcc0386f&sc_channel=em
 - Webinares gravados: https://aws.amazon.com/pt/blogs/aws-brasil/saiba-como-se-especializar-em-solucoes-em-nuvem-quando-e-onde-quiser/ 
+- Desafio Global - SAP on AWS: https://training.resources.awscloud.com/get-certified-sap-on-aws-specialty
+- Desafio Global - Data Analytics: https://training.resources.awscloud.com/get-certified-data-analytics-specialty
+- Desafio Global - Advanced Networking https://training.resources.awscloud.com/get-certified-advanced-networking-specialty
+- Desafio Global - Database: https://training.resources.awscloud.com/get-certified-database-specialty
+- Desafio Global - Machine Learning: https://training.resources.awscloud.com/get-certified-machine-learning-specialty
+- Desafio Global - Security: https://training.resources.awscloud.com/get-certified-security-specialty
 
 
