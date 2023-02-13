@@ -21,6 +21,8 @@ Dados:
 Technical Essentials / Cloud Practitioner Essentials:
 -  Glossário da AWS: https://docs.aws.amazon.com/pt_br/general/latest/gr/glos-chap.html
 - Treinamento sob demanda: https://explore.skillbuilder.aws/learn/course/external/view/elearning/8287/aws-cloud-practitioner-essentials-portuguese?sc_channel=em&sc_campaign=%7B%7Bprogram.name%7D%7D&traincert_AMER_FY21_Q4_tclever_FLE_EM=&sc_medium=em_%7B%7Bcampaign.id%7D%7D&sc_content=REG_la_traincert&sc_geo=latm&sc_country=br&sc_outcome=reg&trk=em_%7B%7Bcampaign.id%7D%7D
+- Sessões em gravadas em português para acessar quando e onde puder: https://aws.amazon.com/pt/events/sessions/?nc1=h_ls&webinars-latam-cards.sort-by=item.additionalFields.startDateTime&webinars-latam-cards.sort-order=desc&awsf.webinars-latam-filter-expertise=*all&awsf.webinars-latam-filter-level=*all&awsf.webinars-latam-filter-delivery=delivery%23t-c&awsf.webinars-latam-filter-category=*all&awsf.webinars-latam-filter-segment=*all&awsf.webinars-latam-filter-industry=*all
+- Eventos e webinares da aws (para você ver ao vivo e ter a oportunidade de tirar duvidas): https://aws.amazon.com/pt/events/?nc1=h_ls&events-master-main.sort-by=item.additionalFields.startDateTime&events-master-main.sort-order=desc&awsf.events-master-type=*all&awsf.events-master-audience=audience%23t-c&awsm.page-events-master-main=1
 - Infraestrutura global: https://aws.amazon.com/pt/about-aws/global-infrastructure/
 - Regiões: https://aws.amazon.com/pt/about-aws/global-infrastructure/regions_az/?p=ngi&loc=2
 - Modelo de responsabilidade compartilhada: https://aws.amazon.com/compliance/shared-responsibility-model/
