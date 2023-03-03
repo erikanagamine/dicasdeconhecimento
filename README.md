@@ -152,5 +152,7 @@ Campanhas globais:
 - Desafio Global - Database: https://training.resources.awscloud.com/get-certified-database-specialty
 - Desafio Global - Machine Learning: https://training.resources.awscloud.com/get-certified-machine-learning-specialty
 - Desafio Global - Security: https://training.resources.awscloud.com/get-certified-security-specialty
+- Desafio Global - Professional: https://pages.awscloud.com/GLOBAL-ln-GC-TrainCert-Professional-Certification-Challenge-Registration-2023.html
+
 
 
