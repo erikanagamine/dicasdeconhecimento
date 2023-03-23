@@ -153,6 +153,6 @@ Campanhas globais:
 - Desafio Global - Machine Learning: https://training.resources.awscloud.com/get-certified-machine-learning-specialty
 - Desafio Global - Security: https://training.resources.awscloud.com/get-certified-security-specialty
 - Desafio Global - Professional: https://pages.awscloud.com/GLOBAL-ln-GC-TrainCert-Professional-Certification-Challenge-Registration-2023.html
-
+- Desafio Global - Segunda Tentativa (31/05): https://home.pearsonvue.com/aws/free-retake?trk=236332b5-f2b0-454a-b2f0-0295f70a03de&sc_channel=em
 
 
