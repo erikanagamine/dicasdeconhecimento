@@ -155,4 +155,10 @@ Campanhas globais:
 - Desafio Global - Professional: https://pages.awscloud.com/GLOBAL-ln-GC-TrainCert-Professional-Certification-Challenge-Registration-2023.html
 - Desafio Global - Segunda Tentativa (31/05): https://home.pearsonvue.com/aws/free-retake?trk=236332b5-f2b0-454a-b2f0-0295f70a03de&sc_channel=em
 
+📢 You can now register for the Get AWS Certified: Cloud Practitioner Challenge! https://go.aws/458fvKM
 
+Prepare for and earn AWS Certified: Cloud Practitioner to prove your high-level AWS Cloud knowledge. When you’re skilled, you know it—when you’re certified, everyone knows it. Join the challenge today to receive a 25% voucher toward your final cert exam!
+
+#GetAWSCertifiedChallenge #AWSCertification
+
+*Terms and conditions apply: https://go.aws/3PPUgch
